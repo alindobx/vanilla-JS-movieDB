@@ -334,10 +334,14 @@ section h2 {
   border-radius: 5px;
 }
 
-.alert-success {
+.success {
   background: green;
 }
 
-.alert-error {
+.error {
   background: red;
+}
+
+.show {
+  display:block;
 }
